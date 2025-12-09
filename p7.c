@@ -68,6 +68,7 @@ int main() {
             }
         }
     }
+    display(start);
     printf("actual matrix is :");
     displaymatrix(start, m, n);
 
